@@ -1,0 +1,1 @@
+These are YAML files used by yolo to point it to dataset directories + specify classes
