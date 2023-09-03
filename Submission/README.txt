@@ -1,4 +1,4 @@
-This submission is divided into 6 parts:
+This project is divided into 6 parts:
 
 /Models
 	Object_Detection.ipynb: Object Detection on Google Colab using YOLOv5s
